@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterderify",
+        "uuid": 2618506,
+        "checksum": "2bjc0m"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
